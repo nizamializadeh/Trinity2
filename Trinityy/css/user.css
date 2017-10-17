@@ -1,0 +1,100 @@
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 0px !important;
+  border: 1px solid transparent; }
+  .navbar .a {
+    width: 4%; }
+    .navbar .a img {
+      width: 60px; }
+
+#nav-open {
+  background-color: #f4f4f4;
+  border-bottom: 2px solid transparent; }
+  #nav-open ul li a {
+    margin-bottom: -1px;
+    border-bottom: 2px solid transparent;
+    box-shadow: -1px 0 0 0 #ddd inset;
+    padding: 27px 40px 25px;
+    text-decoration: none;
+    font-weight: 500;
+    color: inherit;
+    display: block; }
+  #nav-open .button .btn-group {
+    margin-left: 88px;
+    margin-right: auto; }
+    #nav-open .button .btn-group a {
+      height: 40px;
+      box-shadow: none;
+      margin-top: 15px;
+      border-width: 2px;
+      color: #333;
+      background-color: #fff;
+      border-color: #ddd; }
+  #nav-open .button .btn-new {
+    color: #fff;
+    background-color: #02a8f5;
+    border-color: #02a8f5;
+    -webkit-box-shadow: 0 3px 8px 0 rgba(2, 168, 245, 0.5);
+    box-shadow: 0 3px 8px 0 rgba(2, 168, 245, 0.5);
+    margin-right: 15px;
+    margin-top: 15px; }
+
+#head h3 {
+  text-align: center;
+  padding: 36px;
+  border-bottom: 1px solid #ddd; }
+
+#newtask {
+  padding-top: 50px; }
+
+.rowa {
+  display: grid; }
+  .rowa .z {
+    border-bottom: 1px solid #ddd; }
+    .rowa .z .name {
+      display: inline-block;
+      padding: 28px 40px 25px; }
+    .rowa .z .s img {
+      float: right;
+      display: inline-block; }
+
+.f {
+  display: inline-block;
+  float: right;
+  line-height: 5em; }
+
+button {
+  height: 40px;
+  box-shadow: none;
+  margin-top: 15px;
+  border-width: 2px;
+  color: #333;
+  background-color: #fff;
+  border-color: #ddd; }
+
+#fouter {
+  width: 100%;
+  padding: 20px;
+  background-color: #f4f4f4; }
+  #fouter .contact {
+    display: inline-block;
+    float: left;
+    padding-left: 20px; }
+    #fouter .contact a {
+      color: #333; }
+  #fouter .c {
+    text-align: center;
+    margin-right: 20px; }
+    #fouter .c i {
+      margin-right: 30px;
+      font-size: 21px;
+      background-color: inherit; }
+  #fouter .email {
+    float: right;
+    margin-top: -17px;
+    margin-right: 20px; }
+    #fouter .email a {
+      color: #333; }
+
+/*# sourceMappingURL=user.css.map */

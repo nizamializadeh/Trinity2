@@ -1,0 +1,168 @@
+.navbar {
+    position: relative;
+    min-height: 50px;
+   margin-bottom: 0px !important;
+    border: 1px solid transparent;
+    .a{
+  width: 4%;
+  img{
+       width: 60px;
+
+  }
+}
+}
+
+#nav-open{
+  background-color: #f4f4f4;
+   border-bottom: 1px solid #ddd;
+  ul{
+
+    li{
+      a{
+        margin-bottom: -1px;
+        border-bottom: 2px solid transparent;
+        box-shadow: -1px 0 0 0 #ddd inset;
+        padding: 27px 40px 25px;
+        text-decoration: none;
+        font-weight: 500;
+        color: inherit;
+        display: block;
+      }
+    }
+  }
+.button{
+    .btn-group{
+          margin-left: 88px;
+          margin-right: auto;
+          a{
+            height: 40px;;
+    box-shadow: none;
+    margin-top: 15px;
+        border-width: 2px;
+    color: #333;
+    background-color: #fff;
+    border-color: #ddd;
+  
+   
+          }
+  }
+  .btn-new{
+    color: #fff;
+    background-color: #02a8f5;
+    border-color: #02a8f5;
+    -webkit-box-shadow: 0 3px 8px 0 rgba(2,168,245,0.5);
+    box-shadow: 0 3px 8px 0 rgba(2,168,245,0.5);
+    margin-right: 15px;
+      margin-top: 15px;
+
+
+  }
+}
+
+
+}
+// @media  screen and (max-width: 800px) {
+//     body {
+//       width: 10%;
+//     }
+// }
+#head{
+  h3{
+    text-align: center;
+      padding: 36px;
+      border-bottom: 1px solid #ddd;
+  }
+}
+#newtask{
+  padding-top: 50px;
+}
+.rowa{
+  display: table-cell;
+  .z{
+      border-bottom: 1px solid #ddd;&:hover{
+      background-color: #f4f4f4;
+    }
+    .name{
+      display: inline-block;
+      padding: 18px 40px 25px;
+    }
+      
+      .s{
+          img{
+              float: right;
+              display: inline-block;
+          }
+
+     
+       a{
+       
+       }
+
+      }
+  }
+}
+
+
+.f{
+  display: inline-block;
+    float: right;
+        line-height: 5em;
+}
+button{
+         height: 40px;
+
+    box-shadow: none;
+    margin-top: 15px;
+        border-width: 2px;
+    color: #333;
+    background-color: #fff;
+    border-color: #ddd;
+}
+#fouter{
+  width: 100%;
+  padding: 20px;
+ 
+  background-color: #f4f4f4;
+
+  .contact{
+    display: inline-block;
+    float: left;
+    padding-left: 20px;
+    a{
+    color: #333;
+        
+    }
+  }
+  .c{
+    text-align: center;
+    margin-right: 20px;
+    i{
+    margin-right: 30px;
+    font-size: 21px;
+    background-color: inherit;
+    }
+  }
+
+    .email{
+      float: right;
+      margin-top: -17px;
+      margin-right: 20px;
+      a{
+        color: #333;
+      }
+
+    }
+
+}
+.testa{
+  display: none;
+   transition: all 1s ease-in-out;
+
+   background-color: #f4f4f4;
+   span{
+    margin-left: 20px;
+   }
+   a{
+    margin-left: 30px;
+   }
+}

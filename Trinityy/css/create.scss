@@ -1,0 +1,92 @@
+body{
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px;
+line-height: 1.42857143;
+color: #333;
+background-color: #fff;
+}
+#head{
+h3{
+text-align: center;
+padding: 36px;
+border-bottom: 1px solid #ddd;
+}
+}
+#contet{
+width: 100%;
+height: 400px;
+padding-top: 70px;
+.form{
+width: 360px;
+height: 260px;
+margin: 0 auto;
+h4{
+font-size: 14px;
+font-weight: bold;
+margin-top: 10px;
+}
+h2{
+font-size: 13px;
+a{
+color: #333;
+}
+
+}
+input{
+display: block;
+width: 100%;
+height: 38px;
+padding: 6px 12px;
+font-size: 13px;
+line-height: 2;
+color: #555;
+background-color: #fff;
+background-image: none;
+border: 2px solid #ccc;
+border-radius: 4px;
+}
+button{
+margin-top: 30px;
+padding: 10px 40px;
+color: #fff;
+background-color: #02a8f5;
+border-color: #02a8f5;
+text-align: center;&:hover{
+box-shadow: 0 3px 8px 0 rgba(2,168,245,0.5);
+}
+}
+}
+}
+#fouter{
+width: 100%;
+height: 100px;
+padding: 20px;
+margin-top: 30px;
+background-color: #f4f4f4;
+.contact{
+display: inline-block;
+float: left;
+padding-left: 20px;
+a{
+color: #333;
+
+}
+}
+.c{
+text-align: center;
+margin-right: 20px;
+i{
+margin-right: 30px;
+font-size: 21px;
+background-color: inherit;
+}
+}
+.email{
+float: right;
+margin-top: -17px;
+margin-right: 20px;
+a{
+color: #333;
+}
+}
+}
