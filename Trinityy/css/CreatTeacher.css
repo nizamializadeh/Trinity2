@@ -55,6 +55,10 @@ body {
         display: inline-block;
         transform: scale(1.4);
         margin-left: 0.75em; }
+    #contet .form textarea {
+      height: 50%;
+      min-width: 100%;
+      max-width: 100%; }
     #contet .form button {
       margin-top: 30px;
       padding: 10px 40px;
@@ -91,4 +95,4 @@ body {
     #fouter .email a {
       color: #333; }
 
-/*# sourceMappingURL=create.css.map */
+/*# sourceMappingURL=creatteacher.css.map */
